@@ -86,7 +86,7 @@ source ~/.bashrc
 
 输出如下证明安装成功：
 
-<img src="assets\nvcc.png"/>
+<img src="\assets\nvcc.png"/>
 
 ### 1.1.3 CUDNN安装
 
@@ -96,13 +96,13 @@ CUDNN安装需要仔细查看显卡驱动和CUDA Toolkit的版本，给大家列
 
 也可自行前往链接查看：https://docs.nvidia.com/deeplearning/cudnn/backend/latest/reference/support-matrix.html#support-matrix
 
-<img src="assets\cudnn.png"/>
+<img src="\assets\cudnn.png"/>
 
 ### 1.1.4 vscode安装
 
 vscode安装包获取地址：https://code.visualstudio.com/Download
 
-<img src="assets\vscode.png"/>
+<img src="\assets\vscode.png"/>
 
 下载linux版本的deb文件，并运行以下命令，将后面的文件名换成下载的名称：
 
@@ -187,7 +187,7 @@ wget http://fishros.com/install -O fishros && . fishros
 
 Isaacsim 5.1的安装包获取地址：https://docs.isaacsim.omniverse.nvidia.com/5.1.0/installation/download.html
 
-<img src="assets\isaacsim5.1.png"/>
+<img src="\assets\isaacsim5.1.png"/>
 
 将这些包下载下来，第一个是isaacsim的原生软件，Isaac Sim Assets为后续可能会用到的资产。
 
