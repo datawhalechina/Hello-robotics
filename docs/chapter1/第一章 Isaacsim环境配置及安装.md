@@ -55,6 +55,7 @@ CUDA Toolkit安装包获取地址：https://developer.nvidia.com/cuda-toolkit-ar
 
 <div align="center">
 <img src="https://github.com/datawhalechina/hello-robotics/blob/fd68645d16825a010d66ea137cb004d98d4931b2/docs/chapter1/assets/cudatoolkit.png" width="90%"/>
+</div>
 
 拿CUDA Toolkit 13.0举例，大家根据自己不同的版本去进行安装命令调试。
 
