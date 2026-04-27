@@ -213,7 +213,7 @@ Joint 是连接两个物体的零件，而 Articulation 是一种将整个机器
 
 在这个示例中，选择+Add > Physics > Articulation Root 即可。
 
-<img src=".\assets\articulations.png"/>
+<img src=".\assets\articulation.png"/>
 
 ### 添加控制器
 
